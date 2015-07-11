@@ -1,4 +1,4 @@
-# A novel method for identifying behavioural changes in animal movement data  
+# A novel method for identifying behavioural changes in animal movement data
 [TOC]
 ###**词语翻译**
 * movement data 移动（运动）数据
